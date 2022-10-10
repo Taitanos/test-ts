@@ -6,6 +6,7 @@ export type CourseType ={
     price: number
 }
 
+/*
 const course = [
     {title: "CSS", price: 110},
     {title: "JS", price: 200},
@@ -21,4 +22,4 @@ const chipPredicate = (course: CourseType) => {
 const chipCourses = [
     {title: "CSS", price: 110},
     {title: "REACT", price: 150},
-];
+];*/
